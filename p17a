@@ -1,0 +1,7 @@
+Initialize a variable 'count' to 0.
+Read the array size, 'n'.
+Declare an integer array of size 'n'.
+Read the array elements.
+Loop through each element of the array from index 0 to n-2: a. Loop through the remaining elements of the array from index i+1 to n-1: i. If the current element and any of the remaining elements are equal, increment the 'count' variable and break out of the inner loop.
+Print the value of 'count' as the total number of duplicate elements in the array.
+End

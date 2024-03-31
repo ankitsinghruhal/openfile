@@ -1,0 +1,18 @@
+STEP 1: START
+STEP 2: INITIALIZE arr1[] ={1, 2, 3, 4, 5}
+STEP 3: length = sizeof(arr1)/sizeof(arr1[0])
+STEP 4: DEFINE arr2[length]
+STEP 5: SET i=0. REPEAT STEP 6 and STEP 7 UNTIL (i<length)
+STEP 6: arr2[i] =arr1[i]
+STEP 7: i=i+1.
+STEP 8: DISPLAY elements of arr1[].
+STEP 9: SET i=0. REPEAT STEP 10 and STEP 11 UNTIL (i<length)
+STEP 10: PRINT arr1[i]
+STEP 11: i=i+1.
+STEP 12: PRINT new line.
+STEP 13: DISPLAY elements of arr2[].
+STEP 14: SET i=0. REPEAT STEP 13 UNTIL (i<length)
+STEP 15: PRINT arr2[i].
+STEP 16: i=i+1.
+STEP 17: RETURN 0.
+STEP 18: END
